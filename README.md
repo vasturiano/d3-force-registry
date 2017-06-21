@@ -1,7 +1,7 @@
 # d3-force-registry
 A curated compilation of plugins and all-things related to [d3-force](https://github.com/d3/d3-force).
 
-## Plugins
+## Force Plugins
 
 | Plugin | Code | Description | Example |
 |---|---|---|---|
@@ -20,3 +20,9 @@ A curated compilation of plugins and all-things related to [d3-force](https://gi
 | d3.forceX | [d3/d3-force](https://github.com/d3/d3-force#forceX) (core) |
 | d3.forceY | [d3/d3-force](https://github.com/d3/d3-force#forceY) (core) |
 | d3.forceZ | [vasturiano/d3-force-3d](https://github.com/vasturiano/d3-force-3d#forcez) |
+
+## Frameworks
+
+| Name | Code | Description | Example |
+|---|---|---|---|
+| d3-force-3d | [vasturiano/d3-force-3d](https://github.com/vasturiano/d3-force-3d) |
