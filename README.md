@@ -12,13 +12,13 @@ A curated compilation of plugins and all-things related to [d3-force](https://gi
 | d3.forceCluster | [d3-force-cluster](https://github.com/ericsoco/d3-force-cluster) | | [Cluster layout](https://bl.ocks.org/ericsoco/4e1b7b628771ae77753842e6dabfcef3), [Clustered attraction](https://bl.ocks.org/ericsoco/d2d49d95d2f75552ac64f0125440b35e) |
 | d3.forceCollide | [d3-force](https://github.com/d3/d3-force#collision) (core) | | [Collision detection](https://bl.ocks.org/mbostock/3231298), [Venn](https://bl.ocks.org/emeeks/6a77dbcf149b4b9e772b30af71d11b06), [Hamilton characters](https://bl.ocks.org/sxywu/570df88e66e420191d33dc5b5650aaf4) |
 | d3.forceContainer | [d3-force-container](https://github.com/1wheel/d3-force-container) | | [Faces](https://bl.ocks.org/1wheel/68073eeba4d19c454a8c25fcd6e9e68a) |
-| d3.forceLink | [d3-force](https://github.com/d3/d3-force#links) (core) | | [Force-directed tree](https://bl.ocks.org/mbostock/95aa92e2f4e8345aaa55a4a94d41ce37), [Pendulum](https://bl.ocks.org/vasturiano/17fd83953443cb6b4b76fecac5779797) |
-| d3.forceMagnetic | [d3-force-magnetic](https://github.com/vasturiano/d3-force-magnetic) | | [Accretion](https://bl.ocks.org/vasturiano/27fbd16d7e9131fbc8e8e93113f9896c), [Orbits](https://bl.ocks.org/vasturiano/5086628299fa6c1bae0094f93d112634) |
-| d3.forceManyBody | [d3-force](https://github.com/d3/d3-force#many-body) (core) | | [Blocks graph](http://bl.ocks.org/mbostock/afecf1ce04644ad9036ca146d2084895), [Force simulation](https://bl.ocks.org/HarryStevens/f636199a46fc4b210fbca3b1dc4ef372) |
+| d3.forceLink | [d3-force](https://github.com/d3/d3-force#links) (core) | Spring-like attraction/repulsion force applied to node-pairs. | [Force-directed tree](https://bl.ocks.org/mbostock/95aa92e2f4e8345aaa55a4a94d41ce37), [Pendulum](https://bl.ocks.org/vasturiano/17fd83953443cb6b4b76fecac5779797) |
+| d3.forceMagnetic | [d3-force-magnetic](https://github.com/vasturiano/d3-force-magnetic) | Inverse-square (with distance) attraction/repulsion force applied to all nodes or dedicated node-pairs edges. Useful to simulate natural occuring forces like gravity or electrostatic. | [Accretion](https://bl.ocks.org/vasturiano/27fbd16d7e9131fbc8e8e93113f9896c), [Orbits](https://bl.ocks.org/vasturiano/5086628299fa6c1bae0094f93d112634) |
+| d3.forceManyBody | [d3-force](https://github.com/d3/d3-force#many-body) (core) | Inverse-linear (with distance) attraction/repulsion force applied to all nodes. Typically used as node repulsion in force-directed graphs for distributed spread. | [Blocks graph](http://bl.ocks.org/mbostock/afecf1ce04644ad9036ca146d2084895), [Force simulation](https://bl.ocks.org/HarryStevens/f636199a46fc4b210fbca3b1dc4ef372) |
 | d3.forceSurface | [d3-force-surface](https://github.com/vasturiano/d3-force-surface) | | [Pong](https://bl.ocks.org/vasturiano/94107e18d438942f92b217809eb3e7ba), [Particle container](https://bl.ocks.org/vasturiano/2992bcb530bc2d64519c5b25201492fd) |
-| d3.forceX | [d3-force](https://github.com/d3/d3-force#forceX) (core) | | [Beeswarm](https://bl.ocks.org/mbostock/6526445e2b44303eebf21da3b6627320) |
-| d3.forceY | [d3-force](https://github.com/d3/d3-force#forceY) (core) | | [Vertical beeswarm](https://bl.ocks.org/jonsadka/ad1a3698615485a310f9228ed7ea93cd) |
-| d3.forceZ | [d3-force-3d](https://github.com/vasturiano/d3-force-3d#forcez) | | - |
+| d3.forceX | [d3-force](https://github.com/d3/d3-force#forceX) (core) | Horizontal spring-like attraction force. | [Beeswarm](https://bl.ocks.org/mbostock/6526445e2b44303eebf21da3b6627320) |
+| d3.forceY | [d3-force](https://github.com/d3/d3-force#forceY) (core) | Vertical spring-like attraction force. | [Vertical beeswarm](https://bl.ocks.org/jonsadka/ad1a3698615485a310f9228ed7ea93cd) |
+| d3.forceZ | [d3-force-3d](https://github.com/vasturiano/d3-force-3d#forcez) | Spring-like attraction force in the Z dimension for 3D representations. | - |
 
 ## Modules
 
