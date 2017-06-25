@@ -20,9 +20,11 @@ A curated compilation of plugins and all-things related to [d3-force](https://gi
 | d3.forceY | [d3-force](https://github.com/d3/d3-force#forceY) (core) | | [Vertical beeswarm](https://bl.ocks.org/jonsadka/ad1a3698615485a310f9228ed7ea93cd) |
 | d3.forceZ | [d3-force-3d](https://github.com/vasturiano/d3-force-3d#forcez) | | - |
 
-## Frameworks
+## Modules
 
 | Name | Code | Description | Example |
 |---|---|---|---|
 | d3-force-3d | [d3-force-3d](https://github.com/vasturiano/d3-force-3d) | | [Multi-dimensional force simulation](https://bl.ocks.org/vasturiano/f59675656258d3f490e9faa40828c0e7) | 
 | d3.forceEdgeBundling | [d3.forceBundle](https://github.com/upphiminn/d3.ForceBundle) | | [US airline routes](http://bl.ocks.org/upphiminn/6515478), [FDEB on force-directed graph](https://bl.ocks.org/vasturiano/7c5f24ef7d4237f7eb33f17e59a6976e) |
+
+Please get in touch for any additions/corrections to this list. And as always, use the force!
