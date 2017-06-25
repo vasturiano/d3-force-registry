@@ -20,8 +20,6 @@ A curated compilation of plugins and all-things related to [d3-force](https://gi
 | d3.forceY | [d3-force](https://github.com/d3/d3-force#forceY) (core) | | [Vertical beeswarm](https://bl.ocks.org/jonsadka/ad1a3698615485a310f9228ed7ea93cd) |
 | d3.forceZ | [d3-force-3d](https://github.com/vasturiano/d3-force-3d#forcez) | | - |
 
-force edge bundle!!
-
 ## Frameworks
 
 | Name | Code | Description | Example |
