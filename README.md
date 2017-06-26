@@ -18,7 +18,7 @@ A curated compilation of plugins and all-things related to [d3-force](https://gi
 | [d3.forceSurface](https://www.npmjs.com/package/d3-force-surface) | Bounce nodes off one or more line-segments. Surface contact triggers an elastic collision against the surface angle. | [d3-force-surface](https://github.com/vasturiano/d3-force-surface) | <ul><li>[Pong](https://bl.ocks.org/vasturiano/94107e18d438942f92b217809eb3e7ba)</li><li>[Particle container](https://bl.ocks.org/vasturiano/2992bcb530bc2d64519c5b25201492fd)</li></ul> |
 | [d3.forceX](https://github.com/d3/d3-force#forceX) | Horizontal spring-like attraction force. | [d3-force](https://github.com/d3/d3-force#forceX) (core) | <ul><li>[Beeswarm](https://bl.ocks.org/mbostock/6526445e2b44303eebf21da3b6627320)</li></ul> |
 | [d3.forceY](https://github.com/d3/d3-force#forceY) | Vertical spring-like attraction force. | [d3-force](https://github.com/d3/d3-force#forceY) (core) | <ul><li>[Vertical beeswarm](https://bl.ocks.org/jonsadka/ad1a3698615485a310f9228ed7ea93cd)</li></ul> |
-| [d3.forceZ](https://github.com/vasturiano/d3-force-3d#forceZ) | Spring-like attraction force in the Z dimension for 3D representations. | <ul><li>[d3-force-3d](https://github.com/vasturiano/d3-force-3d#forceZ) | - |
+| [d3.forceZ](https://github.com/vasturiano/d3-force-3d#forceZ) | Spring-like attraction force in the Z dimension for 3D representations. | [d3-force-3d](https://github.com/vasturiano/d3-force-3d#forceZ) | - |
 
 ## Modules
 
