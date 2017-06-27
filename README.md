@@ -29,12 +29,11 @@ A curated compilation of plugins and all-things related to [d3-force](https://gi
 
 ## Experiments & prototypes
 
-| Name | Description | Code | Example |
-|:---:|---|:---:|---|
-| Brownian Motion | Random particles hit the nodes and change their speeds | [block](https://bl.ocks.org/Fil/75f14da692354b49a88b9c015324eaae) | [Brownian Motion Urquhart](https://bl.ocks.org/Fil/75f14da692354b49a88b9c015324eaae) | 
-| K-Means | K-means clusters can be computed as a force that colors nodes | [block](https://bl.ocks.org/Fil/ef8e0be0147a69bb1d2adc77c66a80b6) | [K-Means as a force](https://bl.ocks.org/Fil/ef8e0be0147a69bb1d2adc77c66a80b6) |
-| tSNE | tSNE computes positions in a webworker, and those positions are used as a force (allowing nodes to converge to their tSNE position while negociating collisions etc | [block](https://bl.ocks.org/Fil/33066cb4f74d35a737355f3b7a2c26b1) | [tSNE applied as a force](https://bl.ocks.org/Fil/33066cb4f74d35a737355f3b7a2c26b1) |
-| Vortex emergence | Put several weird forces together and observe | [block](https://bl.ocks.org/Fil/18ef9696f217cd242f6fb8ec776dc3e3) | [Circular Vortex Emergence](https://bl.ocks.org/Fil/18ef9696f217cd242f6fb8ec776dc3e3) |
+| Name | Description | Example |
+|:---:|---|---|
+| Brownian motion | Random particles hit the nodes and change their speeds. | [Brownian Motion Urquhart](https://bl.ocks.org/Fil/75f14da692354b49a88b9c015324eaae) | 
+| K-Means | K-means clusters can be computed as a force that colors nodes. | [K-Means as a force](https://bl.ocks.org/Fil/ef8e0be0147a69bb1d2adc77c66a80b6) |
+| tSNE | tSNE computes positions in a webworker, and those positions are used as a force (allowing nodes to converge to their tSNE position while negotiating collisions etc.) | [tSNE applied as a force](https://bl.ocks.org/Fil/33066cb4f74d35a737355f3b7a2c26b1) |
 
 
 Please get in touch for any additions/corrections to this list. And as always, use the force!
