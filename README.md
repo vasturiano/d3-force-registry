@@ -27,4 +27,14 @@ A curated compilation of plugins and all-things related to [d3-force](https://gi
 | [d3-force-3d](https://www.npmjs.com/package/d3-force-3d) | Extended version of d3-force to run simulations in 3D or 1D. | [d3-force-3d](https://github.com/vasturiano/d3-force-3d) | <ul><li>[Multi-dimensional force simulation](https://bl.ocks.org/vasturiano/f59675656258d3f490e9faa40828c0e7)</li></ul> | 
 | [d3.forceEdgeBundling](https://github.com/upphiminn/d3.ForceBundle) | Force-directed edge bundling algorithm. Self-organise edges on thick mesh graphs to decrease visual clutter. | [d3.forceBundle](https://github.com/upphiminn/d3.ForceBundle) | <ul><li>[US airline routes](http://bl.ocks.org/upphiminn/6515478)</li><li>[FDEB on force-directed graph](https://bl.ocks.org/vasturiano/7c5f24ef7d4237f7eb33f17e59a6976e)</li></ul> |
 
+## Experiments & prototypes
+
+| Name | Description | Code | Example |
+|:---:|---|:---:|---|
+| Brownian Motion | Random particles hit the nodes and change their speeds | [block](https://bl.ocks.org/Fil/75f14da692354b49a88b9c015324eaae) | [Brownian Motion Urquhart](https://bl.ocks.org/Fil/75f14da692354b49a88b9c015324eaae) | 
+| K-Means | K-means clusters can be computed as a force that colors nodes | [block](https://bl.ocks.org/Fil/ef8e0be0147a69bb1d2adc77c66a80b6) | [K-Means as a force](https://bl.ocks.org/Fil/ef8e0be0147a69bb1d2adc77c66a80b6) |
+| tSNE | tSNE computes positions in a webworker, and those positions are used as a force (allowing nodes to converge to their tSNE position while negociating collisions etc | [block](https://bl.ocks.org/Fil/33066cb4f74d35a737355f3b7a2c26b1) | [tSNE applied as a force](https://bl.ocks.org/Fil/33066cb4f74d35a737355f3b7a2c26b1) |
+| Vortex emergence | Put several weird forces together and observe | [block](https://bl.ocks.org/Fil/18ef9696f217cd242f6fb8ec776dc3e3) | [Circular Vortex Emergence](https://bl.ocks.org/Fil/18ef9696f217cd242f6fb8ec776dc3e3) |
+
+
 Please get in touch for any additions/corrections to this list. And as always, use the force!
