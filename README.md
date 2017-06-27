@@ -27,7 +27,7 @@ A curated compilation of plugins and all-things related to [d3-force](https://gi
 | [d3-force-3d](https://www.npmjs.com/package/d3-force-3d) | Extended version of d3-force to run simulations in 3D or 1D. | [d3-force-3d](https://github.com/vasturiano/d3-force-3d) | <ul><li>[Multi-dimensional force simulation](https://bl.ocks.org/vasturiano/f59675656258d3f490e9faa40828c0e7)</li></ul> | 
 | [d3.forceEdgeBundling](https://github.com/upphiminn/d3.ForceBundle) | Force-directed edge bundling algorithm. Self-organise edges on thick mesh graphs to decrease visual clutter. | [d3.forceBundle](https://github.com/upphiminn/d3.ForceBundle) | <ul><li>[US airline routes](http://bl.ocks.org/upphiminn/6515478)</li><li>[FDEB on force-directed graph](https://bl.ocks.org/vasturiano/7c5f24ef7d4237f7eb33f17e59a6976e)</li></ul> |
 
-## Experiments & prototypes
+## Prototype Ideas
 
 | Name | Description | Example |
 |:---:|---|---|
