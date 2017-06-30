@@ -22,6 +22,7 @@ Please get in touch for any additions/corrections to this list. And as always, u
 | [d3.forceX](https://github.com/d3/d3-force#forceX) | Horizontal spring-like attraction force. | [d3-force](https://github.com/d3/d3-force#forceX) (core) | <ul><li>[Beeswarm](https://bl.ocks.org/mbostock/6526445e2b44303eebf21da3b6627320)</li></ul> |
 | [d3.forceY](https://github.com/d3/d3-force#forceY) | Vertical spring-like attraction force. | [d3-force](https://github.com/d3/d3-force#forceY) (core) | <ul><li>[Vertical beeswarm](https://bl.ocks.org/jonsadka/ad1a3698615485a310f9228ed7ea93cd)</li></ul> |
 | [d3.forceZ](https://github.com/vasturiano/d3-force-3d#forceZ) | Spring-like attraction force in the Z dimension for 3D representations. | [d3-force-3d](https://github.com/vasturiano/d3-force-3d#forceZ) | - |
+| [forceInABox](https://github.com/john-guerra/forceInABox) | Force implementation of the group-in-a-box layout algorithm. | [forceInABox](https://github.com/john-guerra/forceInABox) | <ul><li>[Force in a box](https://bl.ocks.org/john-guerra/830e536314436e2c6396484bcc1e3b3d)</li></ul> |
 
 ## Modules
 
